@@ -1,0 +1,6 @@
+latte
+45.0
+frappe
+20.0
+expresso
+2490

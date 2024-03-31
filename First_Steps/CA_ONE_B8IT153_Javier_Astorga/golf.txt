@@ -1,0 +1,10 @@
+Alice,72
+Bob,68
+David,74
+Dana,70
+Ethan,69
+Fiona,67
+George,75
+Hannah,71
+Ian,73
+Julia,66
